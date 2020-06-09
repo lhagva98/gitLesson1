@@ -1,4 +1,7 @@
 for (let i = 0; i < 100; i++) {
   console.log(i);
-  //oorchlolt 1
+
+  console.log(i * (i - 1));
+
+  const bb = 0;
 }
